@@ -1,0 +1,19 @@
+
+
+
+-	Implement a FuzzySearch algorithm in Epiguides so its more reliable
+-	Implement a commandLine Version where you do anything from the arguments given at the start of the program
+	-	This would include options to change the configuration, Allow single file rename, allow custom rename
+	-	and the general rename all files in this folder
+-	Create the GUI version
+
+------------------------------------------------	Test	   ------------------------------------------------------
+
+
+
+------------------------------------------------	DONE	   ------------------------------------------------------
+
+-	Implement a way for the CMD version to access, modify and upload their own config file
+-	IMPORTANTE! Change the physical path to Enviroment.ProgramData (or so) 		
+-	Implement a Dictionary for TVDB, so if you are trying to rename all the episodes from a given TV show, it does not have to
+look up the TV show name everytime				
