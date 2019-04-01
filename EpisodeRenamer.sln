@@ -15,9 +15,9 @@ Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EpisodeRenamerInstaller", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARG - EpisodeRenamer", "ARG - EpisodeRenamer\ARG - EpisodeRenamer.csproj", "{3162DB25-413C-430D-A77F-2EC85D063BB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSM", "FSM\FSM.csproj", "{1034EF50-D1B1-4E4D-A146-2F49D35F6EE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FSM", "FSM\FSM.csproj", "{1034EF50-D1B1-4E4D-A146-2F49D35F6EE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{76F50039-4C2B-4D36-B274-C987B5EEC8AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj", "{76F50039-4C2B-4D36-B274-C987B5EEC8AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +63,7 @@ Global
 		{85E19B2D-F802-4E2D-A970-2EE3A77A651F}.Debug|x86.ActiveCfg = Debug
 		{85E19B2D-F802-4E2D-A970-2EE3A77A651F}.Debug|x86.Build.0 = Debug
 		{85E19B2D-F802-4E2D-A970-2EE3A77A651F}.Release|Any CPU.ActiveCfg = Release
+		{85E19B2D-F802-4E2D-A970-2EE3A77A651F}.Release|Any CPU.Build.0 = Release
 		{85E19B2D-F802-4E2D-A970-2EE3A77A651F}.Release|x86.ActiveCfg = Release
 		{85E19B2D-F802-4E2D-A970-2EE3A77A651F}.Release|x86.Build.0 = Release
 		{3162DB25-413C-430D-A77F-2EC85D063BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
